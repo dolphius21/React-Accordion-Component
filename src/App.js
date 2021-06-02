@@ -25,14 +25,6 @@ const downAnimation2 = keyframes`
     opacity: 1;
   }
 `;
-const transparency = keyframes`
- 0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-`;
 const AccordionContainer = styled.div``;
 const Card = styled.div`
   display: flex;
