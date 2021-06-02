@@ -9,6 +9,7 @@
 
 body {
   background: linear-gradient(0deg, #e0c3fc 0%, #8ec5fc 100%) no-repeat;
+  color: #536d87;
   height: 100vh;
   display: grid;
   place-items: center;
