@@ -9,7 +9,7 @@ const questions = [
     id: 2,
     question: 'What is User Experience (UX) Design?',
     answer:
-      'User experience (UX) design involves the design of the entire process of acquiring and integrating the product to improve customer satisfaction, ease of use, and pleasure provided in the interaction with a product.'
+      'User experience (UX) refers to any interaction a user has with a product or service.'
   },
   {
     id: 3,
