@@ -3,13 +3,13 @@ const questions = [
     id: 1,
     question: 'What is User Interface (UI) Design',
     answer:
-      'User Interface (UI) Design brings together concepts from interaction design, visual design, and information architectur.'
+      'User Interface (UI) Design brings together concepts from interaction design, visual design, and information architecture.'
   },
   {
     id: 2,
     question: 'What is User Experience (UX) Design?',
     answer:
-      'User experience (UX) refers to any interaction a user has with a product or service.'
+      'User Experience (UX) Design is the process of supporting user behavior through usability, usefulness, and desirability provided in the interaction with a product.'
   },
   {
     id: 3,

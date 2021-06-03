@@ -73,7 +73,7 @@ const Question = styled.div`
   border-radius: 5px;
   padding: 1rem;
   cursor: pointer;
-  transition: all 0.2s linear;
+  transition: all 0.3s linear;
   h3 {
     font-size: 1.1rem;
     font-weight: 600;
@@ -134,9 +134,13 @@ const Accordion = ({ questions }) => {
                 onClick={() => handleClick(item.id)}
                 style={{
                   borderBottom:
-                    clicked === item.id ? '1px solid #d4dae9' : undefined,
+                    clicked === item.id
+                      ? '1px solid #d4dae9'
+                      : '1px solid #fff',
                   borderLeft:
-                    clicked === item.id ? '5px solid #3975fd' : 'none',
+                    clicked === item.id
+                      ? '5px solid #3975fd'
+                      : '5px solid #fff',
                   color: clicked === item.id ? '#3975fd' : undefined
                 }}
               >
