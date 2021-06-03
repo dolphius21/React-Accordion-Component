@@ -73,13 +73,13 @@ const Question = styled.div`
   border-radius: 5px;
   padding: 1rem;
   cursor: pointer;
-  transition: all 0.3s linear;
+  transition: all 0.2s linear;
   h3 {
     font-size: 1.1rem;
     font-weight: 600;
     margin-right: 2rem;
   }
-  h3:hover {
+  &:hover {
     color: #3975fd;
   }
   @media screen and (min-width: 1100px) {
