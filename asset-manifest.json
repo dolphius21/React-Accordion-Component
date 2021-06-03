@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/React-Accordion-Component/static/css/main.3a273434.chunk.css",
-    "main.js": "/React-Accordion-Component/static/js/main.89e21af5.chunk.js",
-    "main.js.map": "/React-Accordion-Component/static/js/main.89e21af5.chunk.js.map",
+    "main.js": "/React-Accordion-Component/static/js/main.d99bfc13.chunk.js",
+    "main.js.map": "/React-Accordion-Component/static/js/main.d99bfc13.chunk.js.map",
     "runtime-main.js": "/React-Accordion-Component/static/js/runtime-main.3936e835.js",
     "runtime-main.js.map": "/React-Accordion-Component/static/js/runtime-main.3936e835.js.map",
-    "static/js/2.ca8f73f0.chunk.js": "/React-Accordion-Component/static/js/2.ca8f73f0.chunk.js",
-    "static/js/2.ca8f73f0.chunk.js.map": "/React-Accordion-Component/static/js/2.ca8f73f0.chunk.js.map",
+    "static/js/2.a4961e2d.chunk.js": "/React-Accordion-Component/static/js/2.a4961e2d.chunk.js",
+    "static/js/2.a4961e2d.chunk.js.map": "/React-Accordion-Component/static/js/2.a4961e2d.chunk.js.map",
     "index.html": "/React-Accordion-Component/index.html",
     "static/css/main.3a273434.chunk.css.map": "/React-Accordion-Component/static/css/main.3a273434.chunk.css.map",
-    "static/js/2.ca8f73f0.chunk.js.LICENSE.txt": "/React-Accordion-Component/static/js/2.ca8f73f0.chunk.js.LICENSE.txt",
+    "static/js/2.a4961e2d.chunk.js.LICENSE.txt": "/React-Accordion-Component/static/js/2.a4961e2d.chunk.js.LICENSE.txt",
     "static/media/UIUX_design.edbab20d.svg": "/React-Accordion-Component/static/media/UIUX_design.edbab20d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3936e835.js",
-    "static/js/2.ca8f73f0.chunk.js",
+    "static/js/2.a4961e2d.chunk.js",
     "static/css/main.3a273434.chunk.css",
-    "static/js/main.89e21af5.chunk.js"
+    "static/js/main.d99bfc13.chunk.js"
   ]
 }
